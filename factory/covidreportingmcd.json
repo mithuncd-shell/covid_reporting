@@ -1,0 +1,9 @@
+{
+	"name": "covidreportingmcd",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "91a2cc53-9073-4d46-bf03-6b0350568ce6",
+		"tenantId": "db1e96a8-a3da-442a-930b-235cac24cd5c"
+	}
+}
